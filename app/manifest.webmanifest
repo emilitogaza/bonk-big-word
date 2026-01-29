@@ -1,9 +1,9 @@
 {
-  "name": "Big Word Bonk",
-  "short_name": "Big Word Bonk",
+  "name": "Bonk Big Word",
+  "short_name": "Bonk Big Word",
   "description": "Why say lot word when few word do trick?",
   "start_url": "/",
-  "id": "big-word-bonk/v1.0",
+  "id": "bonk-big-word/v1.0",
   "display": "standalone",
   "background_color": "#c084fc",
   "theme_color": "#7c3aed",

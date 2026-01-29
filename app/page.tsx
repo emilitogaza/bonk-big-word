@@ -11,7 +11,9 @@ export default function Home() {
 
   // Load scores from localStorage
   useEffect(() => {
-    const scores = JSON.parse(localStorage.getItem("teamScores") || '{"orange": 0, "purple": 0}');
+    const scores = JSON.parse(
+      localStorage.getItem("teamScores") || '{"orange": 0, "purple": 0}',
+    );
     setOrangeScore(scores.orange || 0);
     setPurpleScore(scores.purple || 0);
   }, []);
@@ -38,7 +40,9 @@ export default function Home() {
 
       {/* Content */}
       <div className="relative flex flex-col items-center gap-6">
-        <h1 className="text-center font-bold text-6xl text-purple-200">Big Word Bonk</h1>
+        <h1 className="text-center font-bold text-6xl text-purple-200">
+          Bonk Big Word
+        </h1>
         <p className="text-balance text-center font-bold text-4xl text-purple-200">
           Why say lot word when few word do trick?
         </p>
