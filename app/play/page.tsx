@@ -33,20 +33,20 @@ function PlayGame() {
   const [isGameActive, setIsGameActive] = useState(true);
   const [seenWords, setSeenWords] = useState<Set<string>>(new Set());
 
-  // Initialize team to start, query params take precedence over localStorage
   useEffect(() => {
-    // Check for ?purple or ?orange in url
-    const hasPurple = searchParams.has("purple");
-    const hasOrange = searchParams.has("orange");
+    const urlParams = new URLSearchParams(window.location.search);
+    const hasPurple = urlParams.has("purple") || searchParams.has("purple");
+    const hasOrange = urlParams.has("orange") || searchParams.has("orange");
 
     if (hasPurple || hasOrange) {
       const team: Team = hasPurple ? "purple" : "orange";
       localStorage.setItem("currentTeam", team);
       setCurrentTeam(team);
-      // Clean the URL after reading the param, so we get clean /play
-      window.history.replaceState(null, "", "/play");
+      
+      setTimeout(() => {
+        window.history.replaceState(null, "", "/play");
+      }, 0);
     } else {
-      // when no query param, we check and load from localStorage instead
       const savedTeam = localStorage.getItem("currentTeam") as Team | null;
       if (savedTeam) {
         setCurrentTeam(savedTeam);
@@ -118,7 +118,9 @@ function PlayGame() {
   // Save score to localStorage when game ends
   useEffect(() => {
     if (!isGameActive && timeRemaining === 0) {
-      const scores = JSON.parse(localStorage.getItem("teamScores") || '{"orange": 0, "purple": 0}');
+      const scores = JSON.parse(
+        localStorage.getItem("teamScores") || '{"orange": 0, "purple": 0}',
+      );
       scores[currentTeam] = (scores[currentTeam] || 0) + score;
       localStorage.setItem("teamScores", JSON.stringify(scores));
     }
@@ -144,11 +146,13 @@ function PlayGame() {
   const timerHeight = (timeRemaining / GAME_TIME) * 100;
 
   const bgColor = currentTeam === "orange" ? "bg-orange-800" : "bg-purple-800";
-  const bgColorDark = currentTeam === "orange" ? "bg-orange-900" : "bg-purple-900";
+  const bgColorDark =
+    currentTeam === "orange" ? "bg-orange-900" : "bg-purple-900";
   const easyBg = currentTeam === "orange" ? "bg-orange-500" : "bg-purple-500";
   const hardBg = currentTeam === "orange" ? "bg-orange-700" : "bg-purple-700";
   const buttonBg = currentTeam === "orange" ? "bg-orange-700" : "bg-purple-700";
-  const textColor = currentTeam === "orange" ? "text-orange-100" : "text-purple-100";
+  const textColor =
+    currentTeam === "orange" ? "text-orange-100" : "text-purple-100";
 
   if (!isGameActive) {
     return (
@@ -181,10 +185,17 @@ function PlayGame() {
     buttonBg,
   );
   const roundedCornerStyles = "rounded-lg";
-  const buttonActiveStyles = "active:scale-90 transition-all duration-200 ease-in-out";
+  const buttonActiveStyles =
+    "active:scale-90 transition-all duration-200 ease-in-out";
 
   return (
-    <main className={cn("relative flex h-dvh flex-col gap-2 p-2", bgColor, textColor)}>
+    <main
+      className={cn(
+        "relative flex h-dvh flex-col gap-2 p-2",
+        bgColor,
+        textColor,
+      )}
+    >
       {/* Background Timer */}
       <div
         className={cn(
@@ -264,28 +275,36 @@ function PlayGame() {
           type="button"
           onClick={() => updateScore(-1)}
         >
-          <p className="transition-all duration-300 ease-in-out group-active:scale-150">Fail</p>
+          <p className="transition-all duration-300 ease-in-out group-active:scale-150">
+            Fail
+          </p>
         </button>
         <button
           className={cn(buttonStyles, roundedCornerStyles, buttonActiveStyles)}
           type="button"
           onClick={() => updateScore(1)}
         >
-          <p className="transition-all duration-300 ease-in-out group-active:scale-150">+1</p>
+          <p className="transition-all duration-300 ease-in-out group-active:scale-150">
+            +1
+          </p>
         </button>
         <button
           className={cn(buttonStyles, roundedCornerStyles, buttonActiveStyles)}
           type="button"
           onClick={() => updateScore(3)}
         >
-          <p className="transition-all duration-300 ease-in-out group-active:scale-150">+3</p>
+          <p className="transition-all duration-300 ease-in-out group-active:scale-150">
+            +3
+          </p>
         </button>
         <button
           className={cn(buttonStyles, roundedCornerStyles, buttonActiveStyles)}
           type="button"
           onClick={() => updateScore(-1)}
         >
-          <p className="transition-all duration-300 ease-in-out group-active:scale-150">Skip</p>
+          <p className="transition-all duration-300 ease-in-out group-active:scale-150">
+            Skip
+          </p>
         </button>
       </div>
     </main>

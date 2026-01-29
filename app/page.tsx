@@ -37,9 +37,11 @@ export default function Home() {
       </div>
 
       {/* Content */}
-      <div className="relative flex flex-col items-center gap-6">
-        <h1 className="text-center font-bold text-6xl text-purple-200">Bonk Big Word</h1>
-        <p className="text-balance text-center font-bold text-4xl text-purple-200">
+      <div className="relative flex flex-col items-center gap-4">
+        <h1 className="text-center font-bold text-4xl text-purple-200 md:text-6xl">
+          Bonk Big Word
+        </h1>
+        <p className="text-balance text-center font-bold text-3xl text-purple-200 md:text-4xl">
           Why say lot word when few word do trick?
         </p>
         <div className="flex w-full items-center justify-center gap-4 text-center">
@@ -50,26 +52,25 @@ export default function Home() {
             <p className="font-bold text-7xl lg:text-8xl">{purpleScore}</p>
           </div>
         </div>
-      </div>
-
-      {/* Bottom Buttons */}
-      <div className="absolute right-4 bottom-4 left-4 flex flex-col gap-4 md:flex-row">
-        <button
-          type="button"
-          className="flex h-20 w-full items-center justify-center gap-2 rounded-lg bg-purple-500 px-8 font-semibold text-purple-100 text-xl transition-colors hover:bg-purple-600"
-          onClick={handleResetScores}
-        >
-          Reset Scores
-        </button>
-        <Link
-          href="/play"
-          className="flex h-20 w-full items-center justify-center gap-2 rounded-lg bg-purple-500 px-8 font-semibold text-purple-100 text-xl transition-colors hover:bg-purple-600"
-          onClick={() => {
-            localStorage.setItem("currentTeam", "orange");
-          }}
-        >
-          Play Now <ArrowRight />
-        </Link>
+        {/* Bottom Buttons */}
+        <div className="flex w-full flex-col gap-4 md:flex-row">
+          <button
+            type="button"
+            className="flex h-20 w-full items-center justify-center gap-2 rounded-lg bg-purple-500 px-8 font-semibold text-purple-100 text-xl transition-colors hover:bg-purple-600"
+            onClick={handleResetScores}
+          >
+            Reset Scores
+          </button>
+          <Link
+            href="/play"
+            className="flex h-20 w-full items-center justify-center gap-2 rounded-lg bg-purple-500 px-8 font-semibold text-purple-100 text-xl transition-colors hover:bg-purple-600"
+            onClick={() => {
+              localStorage.setItem("currentTeam", "orange");
+            }}
+          >
+            Play Now <ArrowRight />
+          </Link>
+        </div>
       </div>
     </main>
   );
