@@ -8,18 +8,18 @@ const bricolageGrotesque = Bricolage_Grotesque({
 });
 
 export const metadata: Metadata = {
-  title: "Big Word Bonk",
+  title: "Bonk Big Word",
   description: "Why say lot word when few word do trick?",
   openGraph: {
-    title: "Big Word Bonk",
+    title: "Bonk Big Word",
     description: "Why say lot word when few word do trick?",
     type: "website",
     locale: "en_US",
-    siteName: "Big Word Bonk",
+    siteName: "Bonk Big Word",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Big Word Bonk",
+    title: "Bonk Big Word",
     description: "Why say lot word when few word do trick?",
   },
 };
@@ -31,7 +31,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`$${bricolageGrotesque.variable} antialiased`}>{children}</body>
+      <body className={`$${bricolageGrotesque.variable} antialiased`}>
+        {children}
+      </body>
     </html>
   );
 }
