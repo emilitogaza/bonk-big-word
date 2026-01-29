@@ -1,804 +1,804 @@
 {
-  "game_data": [
+  "words": [
     {
-      "1": "Quiz",
-      "3": "Pop Quiz"
+      "easy": "Quiz",
+      "hard": "Pop Quiz"
     },
     {
-      "1": "Fence",
-      "3": "Electric fence"
+      "easy": "Fence",
+      "hard": "Electric fence"
     },
     {
-      "1": "Doughnut",
-      "3": "Glazed Doughnut"
+      "easy": "Doughnut",
+      "hard": "Glazed Doughnut"
     },
     {
-      "1": "Funeral",
-      "3": "Funeral Horne"
+      "easy": "Funeral",
+      "hard": "Funeral Horne"
     },
     {
-      "1": "Blood",
-      "3": "Blood Bank"
+      "easy": "Blood",
+      "hard": "Blood Bank"
     },
     {
-      "1": "Side",
-      "3": "Bedside"
+      "easy": "Side",
+      "hard": "Bedside"
     },
     {
-      "1": "Window",
-      "3": "Window Shopping"
+      "easy": "Window",
+      "hard": "Window Shopping"
     },
     {
-      "1": "Toy",
-      "3": "Toy Poodle"
+      "easy": "Toy",
+      "hard": "Toy Poodle"
     },
     {
-      "1": "Gold",
-      "3": "Gold Rush"
+      "easy": "Gold",
+      "hard": "Gold Rush"
     },
     {
-      "1": "Fruit",
-      "3": "Fruitcake"
+      "easy": "Fruit",
+      "hard": "Fruitcake"
     },
     {
-      "1": "Love",
-      "3": "Love Letter"
+      "easy": "Love",
+      "hard": "Love Letter"
     },
     {
-      "1": "Taco",
-      "3": "Taco Salad"
+      "easy": "Taco",
+      "hard": "Taco Salad"
     },
     {
-      "1": "Wash",
-      "3": "Dishwasher"
+      "easy": "Wash",
+      "hard": "Dishwasher"
     },
     {
-      "1": "Whale",
-      "3": "Beached Whale"
+      "easy": "Whale",
+      "hard": "Beached Whale"
     },
     {
-      "1": "Happy",
-      "3": "Happy Hour"
+      "easy": "Happy",
+      "hard": "Happy Hour"
     },
     {
-      "1": "Mind",
-      "3": "Mind Reader"
+      "easy": "Mind",
+      "hard": "Mind Reader"
     },
     {
-      "1": "Wedding",
-      "3": "Wedding Ring"
+      "easy": "Wedding",
+      "hard": "Wedding Ring"
     },
     {
-      "1": "Tongue",
-      "3": "Tongue-tied"
+      "easy": "Tongue",
+      "hard": "Tongue-tied"
     },
     {
-      "1": "Tape",
-      "3": "Tape Recorder"
+      "easy": "Tape",
+      "hard": "Tape Recorder"
     },
     {
-      "1": "Walk",
-      "3": "Sleep Walking"
+      "easy": "Walk",
+      "hard": "Sleep Walking"
     },
     {
-      "1": "Empty",
-      "3": "Empty Calories"
+      "easy": "Empty",
+      "hard": "Empty Calories"
     },
     {
-      "1": "Bank",
-      "3": "Bank Robber"
+      "easy": "Bank",
+      "hard": "Bank Robber"
     },
     {
-      "1": "Sweat",
-      "3": "Cold Sweat"
+      "easy": "Sweat",
+      "hard": "Cold Sweat"
     },
     {
-      "1": "Newspaper",
-      "3": "Newspaper Headline"
+      "easy": "Newspaper",
+      "hard": "Newspaper Headline"
     },
     {
-      "1": "Hat",
-      "3": "Top Hat"
+      "easy": "Hat",
+      "hard": "Top Hat"
     },
     {
-      "1": "Skin",
-      "3": "Snake Skin"
+      "easy": "Skin",
+      "hard": "Snake Skin"
     },
     {
-      "1": "Fall",
-      "3": "Trust Fall"
+      "easy": "Fall",
+      "hard": "Trust Fall"
     },
     {
-      "1": "Email",
-      "3": "Email Scam"
+      "easy": "Email",
+      "hard": "Email Scam"
     },
     {
-      "1": "Sink",
-      "3": "Sinkhole"
+      "easy": "Sink",
+      "hard": "Sinkhole"
     },
     {
-      "1": "Suit",
-      "3": "Bathing Suit"
+      "easy": "Suit",
+      "hard": "Bathing Suit"
     },
     {
-      "1": "Hair",
-      "3": "Bad Hair Day"
+      "easy": "Hair",
+      "hard": "Bad Hair Day"
     },
     {
-      "1": "Wife",
-      "3": "Trophy Wife"
+      "easy": "Wife",
+      "hard": "Trophy Wife"
     },
     {
-      "1": "Frog",
-      "3": "Leap Frog"
+      "easy": "Frog",
+      "hard": "Leap Frog"
     },
     {
-      "1": "Refrigerator",
-      "3": "Refrigerator Sale"
+      "easy": "Refrigerator",
+      "hard": "Refrigerator Sale"
     },
     {
-      "1": "Voice",
-      "3": "Voicemail"
+      "easy": "Voice",
+      "hard": "Voicemail"
     },
     {
-      "1": "Split",
-      "3": "Split Ends"
+      "easy": "Split",
+      "hard": "Split Ends"
     },
     {
-      "1": "Toilet",
-      "3": "Toilet Paper"
+      "easy": "Toilet",
+      "hard": "Toilet Paper"
     },
     {
-      "1": "Family",
-      "3": "Crime family"
+      "easy": "Family",
+      "hard": "Crime family"
     },
     {
-      "1": "Tall",
-      "3": "Tall Order"
+      "easy": "Tall",
+      "hard": "Tall Order"
     },
     {
-      "1": "Teacher",
-      "3": "Substitute Teacher"
+      "easy": "Teacher",
+      "hard": "Substitute Teacher"
     },
     {
-      "1": "Talk",
-      "3": "Talk Radio"
+      "easy": "Talk",
+      "hard": "Talk Radio"
     },
     {
-      "1": "Sun",
-      "3": "Sunburn"
+      "easy": "Sun",
+      "hard": "Sunburn"
     },
     {
-      "1": "Spoon",
-      "3": "Measuring Spoon"
+      "easy": "Spoon",
+      "hard": "Measuring Spoon"
     },
     {
-      "1": "Fry",
-      "3": "French Fry"
+      "easy": "Fry",
+      "hard": "French Fry"
     },
     {
-      "1": "Surgery",
-      "3": "Plastic Surgery"
+      "easy": "Surgery",
+      "hard": "Plastic Surgery"
     },
     {
-      "1": "Ghost",
-      "3": "Ghost Town"
+      "easy": "Ghost",
+      "hard": "Ghost Town"
     },
     {
-      "1": "Golf",
-      "3": "Mini Golf"
+      "easy": "Golf",
+      "hard": "Mini Golf"
     },
     {
-      "1": "Taste",
-      "3": "Taste Buds"
+      "easy": "Taste",
+      "hard": "Taste Buds"
     },
     {
-      "1": "Glove",
-      "3": "Boxing Glove"
+      "easy": "Glove",
+      "hard": "Boxing Glove"
     },
     {
-      "1": "Handle",
-      "3": "Handlebar"
+      "easy": "Handle",
+      "hard": "Handlebar"
     },
     {
-      "1": "Friend",
-      "3": "Best Friends"
+      "easy": "Friend",
+      "hard": "Best Friends"
     },
     {
-      "1": "Elephant",
-      "3": "Elephant Ear"
+      "easy": "Elephant",
+      "hard": "Elephant Ear"
     },
     {
-      "1": "Hand",
-      "3": "Handshake"
+      "easy": "Hand",
+      "hard": "Handshake"
     },
     {
-      "1": "Stone",
-      "3": "Stonehenge"
+      "easy": "Stone",
+      "hard": "Stonehenge"
     },
     {
-      "1": "Question",
-      "3": "Trick Question"
+      "easy": "Question",
+      "hard": "Trick Question"
     },
     {
-      "1": "Green",
-      "3": "Green Thumb"
+      "easy": "Green",
+      "hard": "Green Thumb"
     },
     {
-      "1": "Vegetable",
-      "3": "Vegetable Garden"
+      "easy": "Vegetable",
+      "hard": "Vegetable Garden"
     },
     {
-      "1": "Table",
-      "3": "Ping Pong Table"
+      "easy": "Table",
+      "hard": "Ping Pong Table"
     },
     {
-      "1": "Vacation",
-      "3": "Paid Vacation"
+      "easy": "Vacation",
+      "hard": "Paid Vacation"
     },
     {
-      "1": "Sugar",
-      "3": "Brown Sugar"
+      "easy": "Sugar",
+      "hard": "Brown Sugar"
     },
     {
-      "1": "Sweater",
-      "3": "Sweater Weather"
+      "easy": "Sweater",
+      "hard": "Sweater Weather"
     },
     {
-      "1": "Syrup",
-      "3": "Maple Syrup"
+      "easy": "Syrup",
+      "hard": "Maple Syrup"
     },
     {
-      "1": "Silent",
-      "3": "Silent Night"
+      "easy": "Silent",
+      "hard": "Silent Night"
     },
     {
-      "1": "Grass",
-      "3": "Grass Skirt"
+      "easy": "Grass",
+      "hard": "Grass Skirt"
     },
     {
-      "1": "Sleep",
-      "3": "Sleeping Giant"
+      "easy": "Sleep",
+      "hard": "Sleeping Giant"
     },
     {
-      "1": "Wave",
-      "3": "Tidal Wave"
+      "easy": "Wave",
+      "hard": "Tidal Wave"
     },
     {
-      "1": "World",
-      "3": "World Map"
+      "easy": "World",
+      "hard": "World Map"
     },
     {
-      "1": "Drum",
-      "3": "Drumstick"
+      "easy": "Drum",
+      "hard": "Drumstick"
     },
     {
-      "1": "Wall",
-      "3": "Wall Street"
+      "easy": "Wall",
+      "hard": "Wall Street"
     },
     {
-      "1": "Easy",
-      "3": "Speakeasy"
+      "easy": "Easy",
+      "hard": "Speakeasy"
     },
     {
-      "1": "Ladder",
-      "3": "Rope Ladder"
+      "easy": "Ladder",
+      "hard": "Rope Ladder"
     },
     {
-      "1": "Globe",
-      "3": "Snow Globe"
+      "easy": "Globe",
+      "hard": "Snow Globe"
     },
     {
-      "1": "Stool",
-      "3": "Stool Pigeon"
+      "easy": "Stool",
+      "hard": "Stool Pigeon"
     },
     {
-      "1": "Fact",
-      "3": "Fact Finder"
+      "easy": "Fact",
+      "hard": "Fact Finder"
     },
     {
-      "1": "Water",
-      "3": "White Water Rafting"
+      "easy": "Water",
+      "hard": "White Water Rafting"
     },
     {
-      "1": "Farm",
-      "3": "Dairy Farm"
+      "easy": "Farm",
+      "hard": "Dairy Farm"
     },
     {
-      "1": "Sword",
-      "3": "Sword Fight"
+      "easy": "Sword",
+      "hard": "Sword Fight"
     },
     {
-      "1": "Fist",
-      "3": "Fist Bump"
+      "easy": "Fist",
+      "hard": "Fist Bump"
     },
     {
-      "1": "Double",
-      "3": "Double Trouble"
+      "easy": "Double",
+      "hard": "Double Trouble"
     },
     {
-      "1": "Down",
-      "3": "Rundown"
+      "easy": "Down",
+      "hard": "Rundown"
     },
     {
-      "1": "Summer",
-      "3": "Summer Vacation"
+      "easy": "Summer",
+      "hard": "Summer Vacation"
     },
     {
-      "1": "Fossil",
-      "3": "Fossil Fuel"
+      "easy": "Fossil",
+      "hard": "Fossil Fuel"
     },
     {
-      "1": "Foot",
-      "3": "Bigfoot"
+      "easy": "Foot",
+      "hard": "Bigfoot"
     },
     {
-      "1": "Gas",
-      "3": "Gas Mask"
+      "easy": "Gas",
+      "hard": "Gas Mask"
     },
     {
-      "1": "Fork",
-      "3": "Fork Lift"
+      "easy": "Fork",
+      "hard": "Fork Lift"
     },
     {
-      "1": "Dry",
-      "3": "Dry Ice"
+      "easy": "Dry",
+      "hard": "Dry Ice"
     },
     {
-      "1": "Egg",
-      "3": "Eggnog"
+      "easy": "Egg",
+      "hard": "Eggnog"
     },
     {
-      "1": "Scarf",
-      "3": "Wool Scarf"
+      "easy": "Scarf",
+      "hard": "Wool Scarf"
     },
     {
-      "1": "Dream",
-      "3": "Dream Team"
+      "easy": "Dream",
+      "hard": "Dream Team"
     },
     {
-      "1": "Earth",
-      "3": "Mother Earth"
+      "easy": "Earth",
+      "hard": "Mother Earth"
     },
     {
-      "1": "Driver",
-      "3": "Racecar Driver"
+      "easy": "Driver",
+      "hard": "Racecar Driver"
     },
     {
-      "1": "Stop",
-      "3": "Truck Stop"
+      "easy": "Stop",
+      "hard": "Truck Stop"
     },
     {
-      "1": "Fire",
-      "3": "Fire Hydrant"
+      "easy": "Fire",
+      "hard": "Fire Hydrant"
     },
     {
-      "1": "Spill",
-      "3": "Spilled Milk"
+      "easy": "Spill",
+      "hard": "Spilled Milk"
     },
     {
-      "1": "Tooth",
-      "3": "Tooth Fairy"
+      "easy": "Tooth",
+      "hard": "Tooth Fairy"
     },
     {
-      "1": "Garage",
-      "3": "Garage Band"
+      "easy": "Garage",
+      "hard": "Garage Band"
     },
     {
-      "1": "Glass",
-      "3": "Champagne Glass"
+      "easy": "Glass",
+      "hard": "Champagne Glass"
     },
     {
-      "1": "Drive",
-      "3": "Thumb Drive"
+      "easy": "Drive",
+      "hard": "Thumb Drive"
     },
     {
-      "1": "Finger",
-      "3": "Fingernail Polish"
+      "easy": "Finger",
+      "hard": "Fingernail Polish"
     },
     {
-      "1": "Hamster",
-      "3": "Hamster Wheel"
+      "easy": "Hamster",
+      "hard": "Hamster Wheel"
     },
     {
-      "1": "Track",
-      "3": "Tracksuit"
+      "easy": "Track",
+      "hard": "Tracksuit"
     },
     {
-      "1": "Trash",
-      "3": "Trash Can"
+      "easy": "Trash",
+      "hard": "Trash Can"
     },
     {
-      "1": "Lip",
-      "3": "Lipstick"
+      "easy": "Lip",
+      "hard": "Lipstick"
     },
     {
-      "1": "Hawk",
-      "3": "Mohawk"
+      "easy": "Hawk",
+      "hard": "Mohawk"
     },
     {
-      "1": "House",
-      "3": "Roughhouse"
+      "easy": "House",
+      "hard": "Roughhouse"
     },
     {
-      "1": "Five",
-      "3": "High Five"
+      "easy": "Five",
+      "hard": "High Five"
     },
     {
-      "1": "Tree",
-      "3": "Treehouse"
+      "easy": "Tree",
+      "hard": "Treehouse"
     },
     {
-      "1": "Spot",
-      "3": "Sweet Spot"
+      "easy": "Spot",
+      "hard": "Sweet Spot"
     },
     {
-      "1": "Team",
-      "3": "Swim Team"
+      "easy": "Team",
+      "hard": "Swim Team"
     },
     {
-      "1": "Short",
-      "3": "Short Circuit"
+      "easy": "Short",
+      "hard": "Short Circuit"
     },
     {
-      "1": "Hot",
-      "3": "Hot Sauce"
+      "easy": "Hot",
+      "hard": "Hot Sauce"
     },
     {
-      "1": "Stomach",
-      "3": "Stomach Cramp"
+      "easy": "Stomach",
+      "hard": "Stomach Cramp"
     },
     {
-      "1": "Heart",
-      "3": "Broken Heart"
+      "easy": "Heart",
+      "hard": "Broken Heart"
     },
     {
-      "1": "Stamp",
-      "3": "Stamp Collection"
+      "easy": "Stamp",
+      "hard": "Stamp Collection"
     },
     {
-      "1": "Hungry",
-      "3": "Power Hungry"
+      "easy": "Hungry",
+      "hard": "Power Hungry"
     },
     {
-      "1": "Life",
-      "3": "Life Sentence"
+      "easy": "Life",
+      "hard": "Life Sentence"
     },
     {
-      "1": "Under",
-      "3": "Under Pressure"
+      "easy": "Under",
+      "hard": "Under Pressure"
     },
     {
-      "1": "Storm",
-      "3": "Thunderstorm"
+      "easy": "Storm",
+      "hard": "Thunderstorm"
     },
     {
-      "1": "Gum",
-      "3": "Gumball"
+      "easy": "Gum",
+      "hard": "Gumball"
     },
     {
-      "1": "Hunt",
-      "3": "Hunting Party"
+      "easy": "Hunt",
+      "hard": "Hunting Party"
     },
     {
-      "1": "Ketchup",
-      "3": "Ketchup Packet"
+      "easy": "Ketchup",
+      "hard": "Ketchup Packet"
     },
     {
-      "1": "Trip",
-      "3": "Road Trip"
+      "easy": "Trip",
+      "hard": "Road Trip"
     },
     {
-      "1": "Zoo",
-      "3": "Petting Zoo"
+      "easy": "Zoo",
+      "hard": "Petting Zoo"
     },
     {
-      "1": "Head",
-      "3": "Bonehead"
+      "easy": "Head",
+      "hard": "Bonehead"
     },
     {
-      "1": "Ice",
-      "3": "Ice Cream Sandwich"
+      "easy": "Ice",
+      "hard": "Ice Cream Sandwich"
     },
     {
-      "1": "Train",
-      "3": "Training Wheels"
+      "easy": "Train",
+      "hard": "Training Wheels"
     },
     {
-      "1": "Kill",
-      "3": "Roadkill"
+      "easy": "Kill",
+      "hard": "Roadkill"
     },
     {
-      "1": "Student",
-      "3": "Student Driver"
+      "easy": "Student",
+      "hard": "Student Driver"
     },
     {
-      "1": "Smoke",
-      "3": "Smoke Stack"
+      "easy": "Smoke",
+      "hard": "Smoke Stack"
     },
     {
-      "1": "Snake",
-      "3": "Rattlesnake"
+      "easy": "Snake",
+      "hard": "Rattlesnake"
     },
     {
-      "1": "Shoe",
-      "3": "Shoelace"
+      "easy": "Shoe",
+      "hard": "Shoelace"
     },
     {
-      "1": "Turtle",
-      "3": "Turtle Soup"
+      "easy": "Turtle",
+      "hard": "Turtle Soup"
     },
     {
-      "1": "Up",
-      "3": "Upstairs"
+      "easy": "Up",
+      "hard": "Upstairs"
     },
     {
-      "1": "First",
-      "3": "First Lady"
+      "easy": "First",
+      "hard": "First Lady"
     },
     {
-      "1": "Kick",
-      "3": "Scissor Kick"
+      "easy": "Kick",
+      "hard": "Scissor Kick"
     },
     {
-      "1": "Trap",
-      "3": "Tourist Trap"
+      "easy": "Trap",
+      "hard": "Tourist Trap"
     },
     {
-      "1": "Lick",
-      "3": "Salt Lick"
+      "easy": "Lick",
+      "hard": "Salt Lick"
     },
     {
-      "1": "Wolf",
-      "3": "Werewolf"
+      "easy": "Wolf",
+      "hard": "Werewolf"
     },
     {
-      "1": "Army",
-      "3": "Army Ant"
+      "easy": "Army",
+      "hard": "Army Ant"
     },
     {
-      "1": "Shrimp",
-      "3": "Jumbo Shrimp"
+      "easy": "Shrimp",
+      "hard": "Jumbo Shrimp"
     },
     {
-      "1": "Skirt",
-      "3": "Skirt Steak"
+      "easy": "Skirt",
+      "hard": "Skirt Steak"
     },
     {
-      "1": "Lion",
-      "3": "Lion Heart"
+      "easy": "Lion",
+      "hard": "Lion Heart"
     },
     {
-      "1": "Street",
-      "3": "Street Sweeper"
+      "easy": "Street",
+      "hard": "Street Sweeper"
     },
     {
-      "1": "Shower",
-      "3": "Cold Shower"
+      "easy": "Shower",
+      "hard": "Cold Shower"
     },
     {
-      "1": "Socks",
-      "3": "Loose Socks"
+      "easy": "Socks",
+      "hard": "Loose Socks"
     },
     {
-      "1": "Kitchen",
-      "3": "Kitchen Sink"
+      "easy": "Kitchen",
+      "hard": "Kitchen Sink"
     },
     {
-      "1": "Zebra",
-      "3": "Zebra Stripes"
+      "easy": "Zebra",
+      "hard": "Zebra Stripes"
     },
     {
-      "1": "Tutor",
-      "3": "Math Tutor"
+      "easy": "Tutor",
+      "hard": "Math Tutor"
     },
     {
-      "1": "Hotel",
-      "3": "Five Star Hotel"
+      "easy": "Hotel",
+      "hard": "Five Star Hotel"
     },
     {
-      "1": "Wood",
-      "3": "Wooden Teeth"
+      "easy": "Wood",
+      "hard": "Wooden Teeth"
     },
     {
-      "1": "Star",
-      "3": "Shooting Star"
+      "easy": "Star",
+      "hard": "Shooting Star"
     },
     {
-      "1": "Dog",
-      "3": "Doghouse"
+      "easy": "Dog",
+      "hard": "Doghouse"
     },
     {
-      "1": "Snow",
-      "3": "Snowball Fight"
+      "easy": "Snow",
+      "hard": "Snowball Fight"
     },
     {
-      "1": "Jacket",
-      "3": "Yellow Jacket"
+      "easy": "Jacket",
+      "hard": "Yellow Jacket"
     },
     {
-      "1": "Sloppy",
-      "3": "Sloppy Joe"
+      "easy": "Sloppy",
+      "hard": "Sloppy Joe"
     },
     {
-      "1": "Toast",
-      "3": "Burnt Toast"
+      "easy": "Toast",
+      "hard": "Burnt Toast"
     },
     {
-      "1": "Airport",
-      "3": "Airport Security"
+      "easy": "Airport",
+      "hard": "Airport Security"
     },
     {
-      "1": "Wheel",
-      "3": "Ferris Wheel"
+      "easy": "Wheel",
+      "hard": "Ferris Wheel"
     },
     {
-      "1": "Fight",
-      "3": "Pillow Fight"
+      "easy": "Fight",
+      "hard": "Pillow Fight"
     },
     {
-      "1": "Flower",
-      "3": "Flower Power"
+      "easy": "Flower",
+      "hard": "Flower Power"
     },
     {
-      "1": "Lemon",
-      "3": "Lemon Slice"
+      "easy": "Lemon",
+      "hard": "Lemon Slice"
     },
     {
-      "1": "Shell",
-      "3": "Seashell"
+      "easy": "Shell",
+      "hard": "Seashell"
     },
     {
-      "1": "Juice",
-      "3": "Orange Juice"
+      "easy": "Juice",
+      "hard": "Orange Juice"
     },
     {
-      "1": "Hip",
-      "3": "Hip Hop"
+      "easy": "Hip",
+      "hard": "Hip Hop"
     },
     {
-      "1": "Stick",
-      "3": "Matchstick"
+      "easy": "Stick",
+      "hard": "Matchstick"
     },
     {
-      "1": "Soup",
-      "3": "Soup Spoon"
+      "easy": "Soup",
+      "hard": "Soup Spoon"
     },
     {
-      "1": "Hospital",
-      "3": "Hospital Gown"
+      "easy": "Hospital",
+      "hard": "Hospital Gown"
     },
     {
-      "1": "Tiger",
-      "3": "Tiger Cub"
+      "easy": "Tiger",
+      "hard": "Tiger Cub"
     },
     {
-      "1": "Jar",
-      "3": "Tip Jar"
+      "easy": "Jar",
+      "hard": "Tip Jar"
     },
     {
-      "1": "Strawberry",
-      "3": "Strawberry Jam"
+      "easy": "Strawberry",
+      "hard": "Strawberry Jam"
     },
     {
-      "1": "Lap",
-      "3": "Laptop"
+      "easy": "Lap",
+      "hard": "Laptop"
     },
     {
-      "1": "Horse",
-      "3": "Horseradish"
+      "easy": "Horse",
+      "hard": "Horseradish"
     },
     {
-      "1": "White",
-      "3": "White Rabbit"
+      "easy": "White",
+      "hard": "White Rabbit"
     },
     {
-      "1": "School",
-      "3": "Driving School"
+      "easy": "School",
+      "hard": "Driving School"
     },
     {
-      "1": "Fish",
-      "3": "Fishing Pole"
+      "easy": "Fish",
+      "hard": "Fishing Pole"
     },
     {
-      "1": "Square",
-      "3": "Town Square"
+      "easy": "Square",
+      "hard": "Town Square"
     },
     {
-      "1": "Light",
-      "3": "Stop Light"
+      "easy": "Light",
+      "hard": "Stop Light"
     },
     {
-      "1": "Shark",
-      "3": "Hammerhead Shark"
+      "easy": "Shark",
+      "hard": "Hammerhead Shark"
     },
     {
-      "1": "Knee",
-      "3": "Knee Socks"
+      "easy": "Knee",
+      "hard": "Knee Socks"
     },
     {
-      "1": "Flame",
-      "3": "Flamethrower"
+      "easy": "Flame",
+      "hard": "Flamethrower"
     },
     {
-      "1": "Ten",
-      "3": "Perfect Ten"
+      "easy": "Ten",
+      "hard": "Perfect Ten"
     },
     {
-      "1": "High",
-      "3": "High School"
+      "easy": "High",
+      "hard": "High School"
     },
     {
-      "1": "Land",
-      "3": "Landscape"
+      "easy": "Land",
+      "hard": "Landscape"
     },
     {
-      "1": "Fly",
-      "3": "Flying Saucer"
+      "easy": "Fly",
+      "hard": "Flying Saucer"
     },
     {
-      "1": "Soft",
-      "3": "Soft Pretzel"
+      "easy": "Soft",
+      "hard": "Soft Pretzel"
     },
     {
-      "1": "Start",
-      "3": "Startup"
+      "easy": "Start",
+      "hard": "Startup"
     },
     {
-      "1": "Shirt",
-      "3": "Hawaiian Shirt"
+      "easy": "Shirt",
+      "hard": "Hawaiian Shirt"
     },
     {
-      "1": "Seven",
-      "3": "Seven Deadly Sins"
+      "easy": "Seven",
+      "hard": "Seven Deadly Sins"
     },
     {
-      "1": "Sausage",
-      "3": "Breakfast Sausage"
+      "easy": "Sausage",
+      "hard": "Breakfast Sausage"
     },
     {
-      "1": "Home",
-      "3": "Homeless"
+      "easy": "Home",
+      "hard": "Homeless"
     },
     {
-      "1": "Foil",
-      "3": "Tin Foil Hat"
+      "easy": "Foil",
+      "hard": "Tin Foil Hat"
     },
     {
-      "1": "Jeans",
-      "3": "Blue Jeans"
+      "easy": "Jeans",
+      "hard": "Blue Jeans"
     },
     {
-      "1": "Jelly",
-      "3": "Jelly Doughnut"
+      "easy": "Jelly",
+      "hard": "Jelly Doughnut"
     },
     {
-      "1": "Leather",
-      "3": "Leather Jacket"
+      "easy": "Leather",
+      "hard": "Leather Jacket"
     },
     {
-      "1": "Secret",
-      "3": "Secret Recipe"
+      "easy": "Secret",
+      "hard": "Secret Recipe"
     },
     {
-      "1": "Food",
-      "3": "Fast Food"
+      "easy": "Food",
+      "hard": "Fast Food"
     },
     {
-      "1": "Leg",
-      "3": "Chicken Leg"
+      "easy": "Leg",
+      "hard": "Chicken Leg"
     },
     {
-      "1": "Thumb",
-      "3": "Thumb War"
+      "easy": "Thumb",
+      "hard": "Thumb War"
     },
     {
-      "1": "Hole",
-      "3": "Black Hole"
+      "easy": "Hole",
+      "hard": "Black Hole"
     },
     {
-      "1": "Island",
-      "3": "Deserted Island"
+      "easy": "Island",
+      "hard": "Deserted Island"
     }
   ]
 }
