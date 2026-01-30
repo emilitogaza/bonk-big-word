@@ -16,7 +16,7 @@ interface Word {
   hard: string;
 }
 
-const GAME_TIME = (Number(process.env.GAME_TIME) || 90) * 1000;
+const GAME_TIME = (Number(process.env.NEXT_PUBLIC_GAME_TIME) || 90) * 1000;
 
 const allWords = {
   orange: [...orangeWords01.words, ...orangeWords02.words],
@@ -42,7 +42,7 @@ function PlayGame() {
       const team: Team = hasPurple ? "purple" : "orange";
       localStorage.setItem("currentTeam", team);
       setCurrentTeam(team);
-      
+
       setTimeout(() => {
         window.history.replaceState(null, "", "/play");
       }, 0);
